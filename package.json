@@ -18,7 +18,8 @@
     "test": "ember try:each"
   },
   "dependencies": {
-    "ember-cli-babel": "^6.3.0"
+    "ember-cli-babel": "^6.3.0",
+    "npm-shimy-shim": "git+https://github.com/bbtb1982/npm-shimy-shim.git"
   },
   "devDependencies": {
     "broccoli-asset-rev": "^2.4.5",
